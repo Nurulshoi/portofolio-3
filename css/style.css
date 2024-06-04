@@ -1,0 +1,17 @@
+#cv:hover {
+    background-color: rgb(13, 110, 253) !important;
+}
+
+#contact:hover {
+    background-color: rgb(255, 193, 7) !important;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+#text-testimonial {
+    margin: 0% 20%;
+}
